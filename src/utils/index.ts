@@ -91,4 +91,3 @@ export const getValueFromPercentage = (
 
 
 
-// dummy comment
