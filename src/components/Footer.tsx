@@ -252,4 +252,3 @@ export default Footer;
 
 
 
-// dummy comment
