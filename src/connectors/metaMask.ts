@@ -80,4 +80,3 @@ export const [metaMask, hooks] = initializeConnector<MetaMask>((actions) => new 
 
 
 
-// dummy comment
