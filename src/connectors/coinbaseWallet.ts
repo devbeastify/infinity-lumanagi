@@ -73,4 +73,3 @@ export const [coinbaseWallet, hooks] = initializeConnector<any>(
 
 
 
-// dummy comment
