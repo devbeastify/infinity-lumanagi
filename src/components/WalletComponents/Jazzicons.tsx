@@ -86,4 +86,3 @@ export default Jazzicons;
 
 
 
-// dummy comment
